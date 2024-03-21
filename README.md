@@ -4,7 +4,7 @@
 3. Vava Ahsanul Khuluk | 233307011 | Uji COba dan Dokumentasi
 
 # NoteUs
-
+NoteUs membuat catatan online untuk membantu mengatur waktu
 
 
 ## Design Website
