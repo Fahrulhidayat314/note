@@ -3,7 +3,7 @@
 2. Istya Yulia | 233307019 | Designer
 3. Vava Ahsanul Khuluk | 233307011 | Uji COba dan Dokumentasi
 
-# Note.Us
+# NoteUs
 
 
 
